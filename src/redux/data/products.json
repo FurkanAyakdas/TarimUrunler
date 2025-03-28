@@ -1,0 +1,84 @@
+[
+    {
+      "id": 1,
+      "title": "Siyah Zeytin, 1kg",
+      "price": 60.0,
+      "description": "Doğal yollarla yetiştirilmiş, lezzetli ve sağlıklı siyah zeytinler. Kahvaltılarda veya salatalarda kullanabileceğiniz mükemmel bir seçenek.",
+      "category": "tarım ürünleri",
+      "image": "/src/redux/data/product/siyahzeytin.jpg",
+      "rating": { "rate": 4.6, "count": 150 }
+    },
+    {
+      "id": 2,
+      "title": "Yeşil Zeytin, 1kg",
+      "price": 50.0,
+      "description": "Taze, yeşil zeytinler. Kahvaltılarda, salatalarda veya aperatif olarak harika bir lezzet.",
+      "category": "tarım ürünleri",
+      "image": "/src/redux/data/product/yesilzeytin.jpg",
+      "rating": { "rate": 4.7, "count": 200 }
+    },
+    {
+      "id": 3,
+      "title": "Gemlik Zeytinyağı, 500ml",
+      "price": 300.0,
+      "description": "Ege'nin bereketli topraklarında üretilen, doğal ve soğuk sıkım Gemlik zeytinyağı. Yemeklerde ve salatalarda kullanabileceğiniz yüksek kaliteli zeytinyağı.",
+      "category": "tarım ürünleri",
+      "image": "/src/redux/data/product/yag.jpg",
+      "rating": { "rate": 4.8, "count": 180 }
+    },
+    {
+      "id": 4,
+      "title": "Edremit Zeytinyağı, 500ml",
+      "price": 300.0,
+      "description": "Edremit yöresinin zeytinlerinden elde edilen, soğuk sıkım yöntemiyle üretilmiş doğal zeytinyağı. Yemeklerinizde ve salatalarda kullanabileceğiniz sağlıklı bir yağ.",
+      "category": "tarım ürünleri",
+      "image": "/src/redux/data/product/yag.jpg",
+      "rating": { "rate": 4.7, "count": 160 }
+    },
+    {
+      "id": 5,
+      "title": "Süzme Bal, 500g",
+      "price": 45.0,
+      "description": "Doğal ballardan üretilen, saf ve kaliteli süzme bal. Kahvaltılarınızda ya da tatlılarda kullanabileceğiniz mükemmel bir seçenek.",
+      "category": "tarım ürünleri",
+      "image": "/src/redux/data/product/suzme.jpg",
+      "rating": { "rate": 4.9, "count": 140 }
+    },
+    {
+      "id": 6,
+      "title": "Karakovan Balı, 500g",
+      "price": 70.0,
+      "description": "Doğal karakovan balı, petekle birlikte sunulur. Ege bölgesinin verimli çiçeklerinden elde edilen kaliteli ve doğal bal.",
+      "category": "tarım ürünleri",
+      "image": "/src/redux/data/product/petek.jpg",
+      "rating": { "rate": 5.0, "count": 200 }
+    },
+    {
+      "id": 7,
+      "title": "Petek Balı, 500g",
+      "price": 65.0,
+      "description": "Petek içinde doğal bal. Balın en saf haliyle, şeffaf ve pürüzsüz. Sağlıklı bir tatlı alternatifi.",
+      "category": "tarım ürünleri",
+      "image": "/src/redux/data/product/karakovan.jpg",
+      "rating": { "rate": 4.8, "count": 170 }
+    },
+    {
+      "id": 8,
+      "title": "İncir, 1kg",
+      "price": 40.0,
+      "description": "Taze ve doğal incirler. Sağlıklı atıştırmalıklar, tatlılar veya kahvaltılar için harika bir seçim.",
+      "category": "tarım ürünleri",
+      "image": "/src/redux/data/product/incir.jpg",
+      "rating": { "rate": 4.5, "count": 130 }
+    },
+    {
+      "id": 9,
+      "title": "Ev Yapımı Salça, 1kg",
+      "price": 25.0,
+      "description": "Doğal domateslerden yapılmış, katkı maddesi içermeyen ev yapımı salça. Yemeklerinizde ve pizzalarınızda kullanabilirsiniz.",
+      "category": "tarım ürünleri",
+      "image": "/src/redux/data/product/salca.jpg",
+      "rating": { "rate": 4.6, "count": 180 }
+    }
+  ]
+  
